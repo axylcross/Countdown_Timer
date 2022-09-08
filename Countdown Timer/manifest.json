@@ -1,0 +1,19 @@
+{
+  "name": "Countdown Timer",
+  "version": "0.0.1",
+  "namespace": "Countdown_Timer",
+  "package": "Countdown Timer.dll",
+  "manifest_version": 1,
+
+  "description": "Description of your module. Visit https://github.com/blish-hud/manifest.json/blob/master/manifest-v1.md for details about the manifest format.",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/Axyl/Countdown_Timer",
+  "contributors": [
+    {
+      "name": "Axyl",
+      "username":AxylCross.6192
+    }
+  ]
+}
